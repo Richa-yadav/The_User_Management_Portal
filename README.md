@@ -2,6 +2,8 @@
 
 A responsive web application built with React JS for managing student details, including CRUD operations and search functionality.
 
+The project is deployed on Netlify. Follow [https://user-management-portal.netlify.app/] to open the app on your browser
+
 ## Features
 
 - **Add User Details:** Add new users with first name, last name, email, and avatar.
